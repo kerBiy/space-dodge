@@ -1,7 +1,7 @@
 import pygame
 import sys
 
-from screen import Screen
+from src.screen import Screen
 
 # Constants
 FPS = 60
@@ -12,7 +12,7 @@ def main():
     pygame.init()
     screen = Screen()
 
-    # Variabiles
+    # Variables
     clock = pygame.time.Clock()
     previous_time = pygame.time.get_ticks()
 
