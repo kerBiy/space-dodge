@@ -251,10 +251,10 @@ class StartScreen:
             for i in range(8):
                 screen.blit(grass_tex, (i * 128, 524))
 
-            self.floating_text(self.space_black, -140, 10)
+            self.floating_text(self.space_black, -140, 5)
             self.floating_text(self.space_white, -150)
 
-            self.floating_text(self.dodge_black, -10, 10)
+            self.floating_text(self.dodge_black, -10, 5)
             self.floating_text(self.dodge_white, -20)
 
             self.plain_text(self.startMessage_black, 150, 6)
