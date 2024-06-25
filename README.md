@@ -25,13 +25,13 @@ Embark on an interstellar adventure like never before with "Space Dodge"! In thi
 Clone the project
 
 ```bash
-  git clone https://github.com/kerBiy/Space-Dodge.git
+  git clone https://github.com/kerBiy/space-dodge.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Space-Dodge
+  cd space-dodge
 ```
 
 Start the game
